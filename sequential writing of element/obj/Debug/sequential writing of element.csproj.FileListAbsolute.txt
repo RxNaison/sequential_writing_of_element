@@ -1,0 +1,8 @@
+C:\Users\nata\source\repos\sequential writing of element\sequential writing of element\bin\Debug\sequential writing of element.exe.config
+C:\Users\nata\source\repos\sequential writing of element\sequential writing of element\bin\Debug\sequential writing of element.exe
+C:\Users\nata\source\repos\sequential writing of element\sequential writing of element\bin\Debug\sequential writing of element.pdb
+C:\Users\nata\source\repos\sequential writing of element\sequential writing of element\obj\Debug\sequential writing of element.csproj.AssemblyReference.cache
+C:\Users\nata\source\repos\sequential writing of element\sequential writing of element\obj\Debug\sequential writing of element.csproj.SuggestedBindingRedirects.cache
+C:\Users\nata\source\repos\sequential writing of element\sequential writing of element\obj\Debug\sequential writing of element.csproj.CoreCompileInputs.cache
+C:\Users\nata\source\repos\sequential writing of element\sequential writing of element\obj\Debug\sequential writing of element.exe
+C:\Users\nata\source\repos\sequential writing of element\sequential writing of element\obj\Debug\sequential writing of element.pdb
